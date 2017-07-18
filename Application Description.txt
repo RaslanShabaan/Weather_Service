@@ -1,0 +1,5 @@
+this app enable user to register in our site to search for any country weather descrition at any time by only city name
+-spring security
+-Dao Service
+-Mail Send
+-Maven 
